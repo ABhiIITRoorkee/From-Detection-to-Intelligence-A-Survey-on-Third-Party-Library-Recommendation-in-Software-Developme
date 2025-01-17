@@ -5,7 +5,6 @@
 
 ---
 
-## Introduction
 Third-party libraries (TPLs) are integral to modern software development, providing reusable components that accelerate development. However, their integration introduces challenges such as security vulnerabilities, performance overhead, and privacy concerns. This repository provides a curated survey of research papers, tools, and datasets focused on detecting third-party libraries in various applications, with a particular emphasis on Android apps.
 
 ---
