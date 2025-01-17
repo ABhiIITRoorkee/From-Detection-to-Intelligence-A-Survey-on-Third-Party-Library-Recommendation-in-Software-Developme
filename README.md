@@ -39,7 +39,17 @@ A systematic understanding of TPL detection techniques enables better management
 
 ## Detection Approaches
 ### Static Analysis
-Methods and tools that analyze code without executing it.
+
+Static analysis examines the software's source code or binary files without executing the application. This approach leverages techniques such as:
+- Signature-based matching of library files.
+- Pattern recognition in code dependencies.
+
+**Examples of tools and techniques**:
+- **LibRadar**: Detects libraries in Android APKs using hash-based techniques.
+- **Androguard**: Performs reverse engineering of APK files for library identification.
+
+Static analysis is lightweight and efficient but may miss dynamically loaded or obfuscated libraries.
+
 
 ### Dynamic Analysis
 Techniques that evaluate libraries during runtime.
