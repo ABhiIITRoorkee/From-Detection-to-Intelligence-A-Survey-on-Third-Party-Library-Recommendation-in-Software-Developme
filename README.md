@@ -26,10 +26,14 @@ This repository presents a curated collection of resources, including research p
 ---
 
 ## Motivation
-Detecting third-party libraries is crucial for:
-- Identifying security vulnerabilities in applications.
-- Managing software dependencies effectively.
-- Understanding the behavior of applications through their external components.
+
+The reliance on third-party libraries has become integral to modern software development, offering faster development cycles and robust functionality. However, this dependence introduces challenges such as:
+- **Security Vulnerabilities**: TPLs often serve as an attack vector for malicious activities.
+- **Privacy Risks**: Libraries may expose sensitive user data to third parties.
+- **Dependency Management**: Ensuring compatibility and reducing version conflicts is crucial.
+- **Legal and Licensing Issues**: Understanding and complying with library licenses is critical to avoid legal repercussions.
+
+A systematic understanding of TPL detection techniques enables better management, enhanced security, and improved software quality.
 
 ---
 
