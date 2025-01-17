@@ -1,24 +1,80 @@
-# TPLytics-A-Survey-on-Third-Party-Library-Detection
+# TPLytics: A Comprehensive Survey on Third-Party Library Detection
 
-# Systematic Review of Third-Party Libraries in Android Apps
+**Authors**:  
+- [Abhinav Jamwal](https://scholar.google.com/citations?user=NsOedN0AAAAJ&hl=en)  
+- [Sandeep Kumar](https://scholar.google.co.in/citations?user=PDz0F-YAAAAJ&hl=en)  
 
-This repository contains materials and resources for the review paper titled:
-**"A Systematic Review of Third-Party Libraries in Android Apps and Detection Tools."**
+---
 
-## Contents
-- **Data:** Datasets or supplementary files used for analysis.
-- **Figures:** Diagrams, charts, and images included in the paper.
-- **References:** Bibliography files (e.g., `references.bib` for LaTeX).
-- **Scripts:** Code for any data analysis or visualizations.
-- **Sections:** Subsections of the paper for easier collaboration.
-- **Templates:** Templates for tables, figures, and other assets.
+## Introduction
+Third-party libraries (TPLs) are integral to modern software development, providing reusable components that accelerate development. However, their integration introduces challenges such as security vulnerabilities, performance overhead, and privacy concerns. This repository provides a curated survey of research papers, tools, and datasets focused on detecting third-party libraries in various applications, with a particular emphasis on Android apps.
 
-## Goals of the Review
-- **Analyze Challenges:** Understand challenges posed by third-party libraries in Android apps.
-- **Evaluate Detection Tools:** Systematic assessment of existing tools for TPL detection.
-- **Identify Research Gaps:** Highlight areas for further research and improvement.
+---
 
-## Instructions for Collaboration
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/TPL_Review_Research.git
+## Table of Contents
+- [Motivation](#motivation)
+- [Detection Approaches](#detection-approaches)
+    - [Static Analysis](#static-analysis)
+    - [Dynamic Analysis](#dynamic-analysis)
+    - [Hybrid Approaches](#hybrid-approaches)
+- [Tools and Frameworks](#tools-and-frameworks)
+- [Datasets](#datasets)
+- [Challenges in the Field](#challenges-in-the-field)
+- [Future Directions](#future-directions)
+- [References](#references)
+
+---
+
+## Motivation
+Detecting third-party libraries is crucial for:
+- Identifying security vulnerabilities in applications.
+- Managing software dependencies effectively.
+- Understanding the behavior of applications through their external components.
+
+---
+
+## Detection Approaches
+### Static Analysis
+Methods and tools that analyze code without executing it.
+
+### Dynamic Analysis
+Techniques that evaluate libraries during runtime.
+
+### Hybrid Approaches
+A combination of static and dynamic techniques.
+
+---
+
+## Tools and Frameworks
+An overview of tools used for third-party library detection, including their strengths and limitations.
+
+---
+
+## Datasets
+Details of publicly available datasets for research on third-party library detection.
+
+---
+
+## Challenges in the Field
+A discussion on the current challenges in third-party library detection:
+- Scalability for large-scale apps.
+- Detecting obfuscated or encrypted libraries.
+- Maintaining up-to-date library databases.
+
+---
+
+## Future Directions
+Potential areas for further research:
+- Leveraging machine learning for automated detection.
+- Developing real-time detection systems.
+- Enhancing privacy-preserving mechanisms during detection.
+
+---
+
+## References
+A list of all research papers, tools, and other resources cited in this repository.
+
+---
+
+## Contribution
+We welcome contributions! If you have research papers, tools, or datasets to add, feel free to open an issue or submit a pull request.
