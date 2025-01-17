@@ -1,6 +1,5 @@
 # TPLytics: A Comprehensive Survey on Third-Party Library Detection
 
-**Authors**:  
 **Authors**: [Abhinav Jamwal](https://scholar.google.com/citations?user=NsOedN0AAAAJ&hl=en), [Sandeep Kumar](https://scholar.google.co.in/citations?user=PDz0F-YAAAAJ&hl=en)
 
 
