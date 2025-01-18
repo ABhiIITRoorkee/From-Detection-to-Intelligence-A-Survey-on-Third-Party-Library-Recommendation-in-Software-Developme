@@ -45,7 +45,7 @@ Dahan Pan*, Yi Xu*, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhan
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://aoa0.github.io)
 
 
-### [Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf) [PoPET 2025]  
+### [Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf) [PETS 2025]  
 David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidRodriguezTorrado/PrivacySDKSettingsAnalyzer)
 
