@@ -38,6 +38,24 @@ A systematic understanding of TPL detection techniques enables better management
 ---
 
 ## Detection Approaches
+
+
+### 1. [**Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**](https://aoa0.github.io/pubs/saner25.pdf)   
+**Conference**: SANER 2025  
+**Authors**: Dahan Pan*, Yi Xu*, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang†  
+**GitHub**: [Project Link](https://aoa0.github.io)  
+
+---
+
+### 2. [**Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs**](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf)  
+**Journal**: Proceedings on Privacy Enhancing Technologies YYYY (X)  
+**Authors**: David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh 
+**GitHub**: [Project Link](https://github.com/DavidRodriguezTorrado/PrivacySDKSettingsAnalyzer)
+
+
+
+
+
 ### Static Analysis
 
 Static analysis examines the software's source code or binary files without executing the application. This approach leverages techniques such as:
