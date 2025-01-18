@@ -47,8 +47,7 @@ A systematic understanding of TPL detection techniques enables better management
 
 ---
 
-### 2. [**Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs**](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf)  
-**Journal**: Proceedings on Privacy Enhancing Technologies YYYY (X)  
+### 2. [**Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs**](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf)
 **Authors**: David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh 
 **GitHub**: [Project Link](https://github.com/DavidRodriguezTorrado/PrivacySDKSettingsAnalyzer)
 
