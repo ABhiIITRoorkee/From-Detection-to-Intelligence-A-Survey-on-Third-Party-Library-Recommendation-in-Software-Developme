@@ -40,13 +40,13 @@ A systematic understanding of TPL detection techniques enables better management
 ## Detection Approaches
 
 
-### <span style="font-size:14px;">[Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model](https://aoa0.github.io/pubs/saner25.pdf) [SANER 2025]  </span> 
+### <span style="font-size:10px;">[Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model](https://aoa0.github.io/pubs/saner25.pdf) [SANER 2025]  </span> 
 
 Dahan Pan*, Yi Xu*, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang†  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://aoa0.github.io)
 
 
-### <span style="font-size:14px;">[Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf) [PETS 2025]   </span> 
+### <span style="font-size:10px;">[Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf) [PETS 2025]   </span> 
 David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidRodriguezTorrado/PrivacySDKSettingsAnalyzer)
 
