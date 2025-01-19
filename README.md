@@ -51,6 +51,11 @@ David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidRodriguezTorrado/PrivacySDKSettingsAnalyzer)
 
 
+### [How Does Code Optimization Impact Third-party Library Detection for Android Applications?](https://doi.org/10.1145/1234567890) [ASE 2024]
+Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CGCL-codes/LibHunter)
+
+
 
 ### Static Analysis
 
