@@ -56,9 +56,9 @@ Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CGCL-codes/LibHunter)
 
 
-### <p style="font-size:small;">[How Does Code Optimization Impact Third-party Library Detection for Android Applications? [ASE 2024]](https://github.com/CGCL-codes/LibHunter)</p>
-Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CGCL-codes/LibHunter)
+[**How Does Code Optimization Impact Third-party Library Detection for Android Applications?** [ASE 2024]](https://github.com/CGCL-codes/LibHunter)  
+   Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin  
+   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CGCL-codes/LibHunter)
 
 
 
