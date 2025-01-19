@@ -40,18 +40,18 @@ A systematic understanding of TPL detection techniques enables better management
 ## Detection Approaches
 
 
-### <span style="font-size:5px;">[Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model](https://aoa0.github.io/pubs/saner25.pdf) [SANER 2025]  </span> 
+### <span style="font-size:1px;">[Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model](https://aoa0.github.io/pubs/saner25.pdf) [SANER 2025]  </span> 
 
 Dahan Pan*, Yi Xu*, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang†  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://aoa0.github.io)
 
 
-### <span style="font-size:5px;">[Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf) [PETS 2025]   </span> 
+### <span style="font-size:1px;">[Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf) [PETS 2025]   </span> 
 David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidRodriguezTorrado/PrivacySDKSettingsAnalyzer)
 
 
-### <span style="font-size:5px;">[How Does Code Optimization Impact Third-party Library Detection for Android Applications?](https://github.com/CGCL-codes/LibHunter) [ASE 2024] </span> 
+### <span style="font-size:1px;">[How Does Code Optimization Impact Third-party Library Detection for Android Applications?](https://github.com/CGCL-codes/LibHunter) [ASE 2024] </span> 
 Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CGCL-codes/LibHunter)
 
