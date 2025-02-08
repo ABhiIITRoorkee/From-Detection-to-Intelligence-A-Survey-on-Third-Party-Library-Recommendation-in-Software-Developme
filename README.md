@@ -71,7 +71,16 @@ Jordan Samhi, Tegawendé F. Bissyandé, Jacques Klein
 [**Ossfp: Precise and Scalable C/C++ Third-Party Library Detection Using Fingerprinting Functions**](https://doi.org/10.1109/ICSE48619.2023.00034) [ICSE 2023]  
 Jiahui Wu, Zhengzi Xu, Wei Tang, Lyuye Zhang, Yueming Wu, Chengyue Liu, Kairan Sun, Lida Zhao, Yang Liu  
 
+[**LibDB: An Effective and Efficient Framework for Detecting Third-Party Libraries in Binaries**](https://doi.org/10.1145/3524842.352844) [MSR 2022]  
+Wei Tang, Yanlin Wang, Hongyu Zhang, Shi Han, Ping Luo, Dongmei Zhang  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepSoftwareAnalytics/LibDB)
 
+[**Research on Third-Party Libraries in Android Apps: A Taxonomy and Systematic Literature Review**](https://doi.org/10.1109/TSE.2021.3114381) [IEEE Transactions on Software Engineering, 2021]  
+Xian Zhan, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu  
+
+[**LibKit: Detecting Third-Party Libraries in iOS Apps**](https://doi.org/10.1145/3611643.3616344) [ESEC/FSE 2023]  
+Daniel Domínguez-Álvarez, Alejandro de la Cruz, Alessandra Gorla, Juan Caballero  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://zenodo.org/records/7042015)
 
 
 
