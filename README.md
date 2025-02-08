@@ -58,7 +58,8 @@ Yue Xiao, Chaoqi Zhang, Yue Qin, Fares Fahad S Alharbi, Luyi Xing, Xiaojing Liao
 
 [**Homogeneous graph neural networks for third-party library recommendation**](https://doi.org/10.1016/j.ipm.2024.103831) [Information Processing & Management, 2024]  
 Duantengchuan Li, Yuxuan Gao, Zhihao Wang, Hua Qiu, Pan Liu, Zhuoran Xiong, Zilong Zhang  
-GitHub: [dacilab/HGNRec](https://github.com/dacilab/HGNRec)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dacilab/HGNRec)
+
 
 
 
