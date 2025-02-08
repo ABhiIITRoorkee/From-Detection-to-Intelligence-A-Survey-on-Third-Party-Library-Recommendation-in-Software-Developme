@@ -64,6 +64,12 @@ Duantengchuan Li, Yuxuan Gao, Zhihao Wang, Hua Qiu, Pan Liu, Zhuoran Xiong, Zilo
 Bo Li, Haowei Quan, Jiawei Wang, Pei Liu, Haipeng Cai, Yuan Miao, Yun Yang, Li Li  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Limber0117/PyRec)
 
+[**AndroLibZoo: A Reliable Dataset of Libraries Based on Software Dependency Analysis**](https://ieeexplore.ieee.org/abstract/document/10555749) [MSR 2024]  
+Jordan Samhi, Tegawendé F. Bissyandé, Jacques Klein  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanSamhi/AndroLibZoo)
+
+[**Ossfp: Precise and Scalable C/C++ Third-Party Library Detection Using Fingerprinting Functions**](https://doi.org/10.1109/ICSE48619.2023.00034) [ICSE 2023]  
+Jiahui Wu, Zhengzi Xu, Wei Tang, Lyuye Zhang, Yueming Wu, Chengyue Liu, Kairan Sun, Lida Zhao, Yang Liu  
 
 
 
