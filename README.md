@@ -82,6 +82,17 @@ Xian Zhan, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu
 Daniel Domínguez-Álvarez, Alejandro de la Cruz, Alessandra Gorla, Juan Caballero  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://zenodo.org/records/7042015)
 
+[**JSLibD: Reliable and Heuristic Detection of Third-Party Libraries in Miniapps**](https://doi.org/10.1145/3605762.362442) [SaT-SuperApps 2023]  
+Junjie Tao, Jifei Shi, Ming Fan, Yin Wang, Junfeng Liu, Ting Liu  
+
+[**Characterizing Usages, Updates, and Risks of Third-Party Libraries in Java Projects**](https://link.springer.com/article/10.1007/s10664-022-10131-8) [Empirical Software Engineering, 2022]  
+Kaifeng Huang, Bihuan Chen, Congying Xu, Ying Wang, Bowen Shi, Xin Peng, Yijian Wu, Yang Liu  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://3rdpartylibs.github.io/)
+
+
+[**Understanding and Conquering the Difficulties in Identifying Third-Party Libraries from Millions of Android Apps**](https://doi.org/10.1109/TBDATA.2021.3093244) [IEEE Transactions on Big Data, 2021]  
+Yanghua Zhang, Jice Wang, Hexiang Huang, Yuqing Zhang, Peng Liu  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imcczy/libhawkeye)
 
 
 
