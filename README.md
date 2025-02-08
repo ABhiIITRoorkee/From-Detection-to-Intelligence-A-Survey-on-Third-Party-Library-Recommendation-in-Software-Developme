@@ -49,10 +49,17 @@ A systematic understanding of TPL detection techniques enables better management
    David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh  
    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidRodriguezTorrado/PrivacySDKSettingsAnalyzer)
 
-
 [**How Does Code Optimization Impact Third-party Library Detection for Android Applications?**](https://dl.acm.org/doi/10.1145/3691620.3695554) [ASE 2024]   
 Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CGCL-codes/LibHunter)
+
+[**Measuring Compliance Implications of Third-party Libraries' Privacy Label Disclosure Guidelines**](https://doi.org/10.1145/3658644.3670371) [ACM CCS 2024]  
+Yue Xiao, Chaoqi Zhang, Yue Qin, Fares Fahad S Alharbi, Luyi Xing, Xiaojing Liao  
+
+[**Homogeneous graph neural networks for third-party library recommendation**](https://doi.org/10.1016/j.ipm.2024.103831) [Information Processing & Management, 2024]  
+Duantengchuan Li, Yuxuan Gao, Zhihao Wang, Hua Qiu, Pan Liu, Zhuoran Xiong, Zilong Zhang  
+GitHub: [dacilab/HGNRec](https://github.com/dacilab/HGNRec)
+
 
 
 
