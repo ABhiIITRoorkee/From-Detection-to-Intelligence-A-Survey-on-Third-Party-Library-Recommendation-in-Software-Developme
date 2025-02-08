@@ -39,7 +39,7 @@ A systematic understanding of TPL detection techniques enables better management
 
 ## Detection Approaches
 
-**Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**](https://aoa0.github.io/pubs/saner25.pdf) [SANER 2025]  
+[**Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**](https://aoa0.github.io/pubs/saner25.pdf) [SANER 2025]  
    *Dahan Pan*, *Yi Xu*, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang†  
    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://aoa0.github.io)
 
