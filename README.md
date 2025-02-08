@@ -83,7 +83,7 @@ Xian Zhan, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu
 Daniel Domínguez-Álvarez, Alejandro de la Cruz, Alessandra Gorla, Juan Caballero  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://zenodo.org/records/7042015)
 
-[**JSLibD: Reliable and Heuristic Detection of Third-Party Libraries in Miniapps**](https://doi.org/10.1145/3605762.362442) [SaT-SuperApps 2023]  
+[**JSLibD: Reliable and Heuristic Detection of Third-Party Libraries in Miniapps**](https://dl.acm.org/doi/abs/10.1145/3605762.3624428) [CCS 2023]  
 Junjie Tao, Jifei Shi, Ming Fan, Yin Wang, Junfeng Liu, Ting Liu  
 
 [**Characterizing Usages, Updates, and Risks of Third-Party Libraries in Java Projects**](https://link.springer.com/article/10.1007/s10664-022-10131-8) [Empirical Software Engineering, 2022]  
