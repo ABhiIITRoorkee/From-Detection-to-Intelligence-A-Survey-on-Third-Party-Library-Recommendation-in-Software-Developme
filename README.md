@@ -55,6 +55,7 @@ Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin
 
 [**Measuring Compliance Implications of Third-party Libraries' Privacy Label Disclosure Guidelines**](https://doi.org/10.1145/3658644.3670371) [ACM CCS 2024]  
 Yue Xiao, Chaoqi Zhang, Yue Qin, Fares Fahad S Alharbi, Luyi Xing, Xiaojing Liao  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://sites.google.com/view/colainewebsites)
 
 [**Homogeneous graph neural networks for third-party library recommendation**](https://doi.org/10.1016/j.ipm.2024.103831) [Information Processing & Management, 2024]  
 Duantengchuan Li, Yuxuan Gao, Zhihao Wang, Hua Qiu, Pan Liu, Zhuoran Xiong, Zilong Zhang  
@@ -93,6 +94,30 @@ Kaifeng Huang, Bihuan Chen, Congying Xu, Ying Wang, Bowen Shi, Xin Peng, Yijian 
 [**Understanding and Conquering the Difficulties in Identifying Third-Party Libraries from Millions of Android Apps**](https://doi.org/10.1109/TBDATA.2021.3093244) [IEEE Transactions on Big Data, 2021]  
 Yanghua Zhang, Jice Wang, Hexiang Huang, Yuqing Zhang, Peng Liu  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imcczy/libhawkeye)
+
+[**Detecting Third-Party Libraries for Privacy Leakage in Packed Android Applications**](https://doi.org/10.1109/CAC57257.2022.10054907) [China Automation Congress (CAC) 2022]  
+Hua Cheng, Guang Hu, Jin Liu, Zhiwei Kang, Chao Pan, ZiJun Zhang  
+
+[**Embedding App-Library Graph for Neural Third-Party Library Recommendation**](https://dl.acm.org/doi/abs/10.1145/3468264.3468552) [ESEC/FSE 2021]  
+Bo Li, Qiang He, Feifei Chen, Xin Xia, Li Li, John Grundy, Yun Yang  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fio1982/GRec)
+
+[**Lib2Desc: Automatic Generation of Security-Centric Android App Descriptions Using Third-Party Libraries**](https://link.springer.com/article/10.1007/s10207-022-00601-x) [International Journal of Information Security, 2022]  
+Beyza Cevik, Nur Altiparmak, Murat Aksu, Sevil Sen 
+
+[**Adversarial Machine Learning: On the Resilience of Third-Party Library Recommender Systems**](https://doi.org/10.1145/3463274.34638) [EASE 2021]  
+Phuong T. Nguyen, Davide Di Ruscio, Juri Di Rocco, Claudio Di Sipio, Massimiliano Di Penta  
+
+[**Endowing Third-Party Libraries Recommender Systems with Explicit User Feedback Mechanisms**](https://doi.org/10.1109/SANER53432.2022.00099) [SANER 2022]  
+Riccardo Rubei, Claudio Di Sipio, Juri Di Rocco, Davide Di Ruscio, Phuong T. Nguyen  
+
+[**Dealing with Popularity Bias in Recommender Systems for Third-Party Libraries: How Far Are We?**](https://doi.org/10.1109/MSR59073.2023.00016) [MSR 2023]  
+Phuong T. Nguyen, Riccardo Rubei, Juri Di Rocco, Claudio Di Sipio, Davide Di Ruscio, Massimiliano Di Penta  
+
+[**Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps**](https://doi.org/10.1109/ICSE48619.2023.00137) [ICSE 2023]  
+Kaifa Zhao, Xian Zhan, Le Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, Yepang Liu  
+
+
 
 
 
