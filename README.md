@@ -39,6 +39,8 @@ A systematic understanding of TPL detection techniques enables better management
 
 ## Detection Approaches
 
+### **2025**
+
 [**Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**](https://aoa0.github.io/pubs/saner25.pdf) [SANER 2025]  
    *Dahan Pan*, *Yi Xu*, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang†  
    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://aoa0.github.io)
@@ -46,6 +48,8 @@ A systematic understanding of TPL detection techniques enables better management
  [**Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs**](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf) [PETS 2025]  
    David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh  
    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidRodriguezTorrado/PrivacySDKSettingsAnalyzer)
+
+### **2024**
 
 [**How Does Code Optimization Impact Third-party Library Detection for Android Applications?**](https://dl.acm.org/doi/10.1145/3691620.3695554) [ASE 2024]   
 Zifan Xie, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin  
@@ -67,56 +71,71 @@ Bo Li, Haowei Quan, Jiawei Wang, Pei Liu, Haipeng Cai, Yuan Miao, Yun Yang, Li L
 Jordan Samhi, Tegawendé F. Bissyandé, Jacques Klein  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanSamhi/AndroLibZoo)
 
+### **2023**
+
 [**Ossfp: Precise and Scalable C/C++ Third-Party Library Detection Using Fingerprinting Functions**](https://doi.org/10.1109/ICSE48619.2023.00034) [ICSE 2023]  
 Jiahui Wu, Zhengzi Xu, Wei Tang, Lyuye Zhang, Yueming Wu, Chengyue Liu, Kairan Sun, Lida Zhao, Yang Liu  
-
-[**LibDB: An Effective and Efficient Framework for Detecting Third-Party Libraries in Binaries**](https://doi.org/10.1145/3524842.352844) [MSR 2022]  
-Wei Tang, Yanlin Wang, Hongyu Zhang, Shi Han, Ping Luo, Dongmei Zhang  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepSoftwareAnalytics/LibDB)
-
-[**Research on Third-Party Libraries in Android Apps: A Taxonomy and Systematic Literature Review**](https://doi.org/10.1109/TSE.2021.3114381) [IEEE Transactions on Software Engineering, 2021]  
-Xian Zhan, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu  
 
 [**LibKit: Detecting Third-Party Libraries in iOS Apps**](https://doi.org/10.1145/3611643.3616344) [ESEC/FSE 2023]  
 Daniel Domínguez-Álvarez, Alejandro de la Cruz, Alessandra Gorla, Juan Caballero  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://zenodo.org/records/7042015)
 
 [**JSLibD: Reliable and Heuristic Detection of Third-Party Libraries in Miniapps**](https://dl.acm.org/doi/abs/10.1145/3605762.3624428) [CCS 2023]  
-Junjie Tao, Jifei Shi, Ming Fan, Yin Wang, Junfeng Liu, Ting Liu  
+Junjie Tao, Jifei Shi, Ming Fan, Yin Wang, Junfeng Liu, Ting Liu 
+
+[**Dealing with Popularity Bias in Recommender Systems for Third-Party Libraries: How Far Are We?**](https://doi.org/10.1109/MSR59073.2023.00016) [MSR 2023]  
+Phuong T. Nguyen, Riccardo Rubei, Juri Di Rocco, Claudio Di Sipio, Davide Di Ruscio, Massimiliano Di Penta  
+
+[**Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps**](https://doi.org/10.1109/ICSE48619.2023.00137) [ICSE 2023]  
+Kaifa Zhao, Xian Zhan, Le Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, Yepang Liu 
+
+### **2022**
+
+[**LibDB: An Effective and Efficient Framework for Detecting Third-Party Libraries in Binaries**](https://doi.org/10.1145/3524842.352844) [MSR 2022]  
+Wei Tang, Yanlin Wang, Hongyu Zhang, Shi Han, Ping Luo, Dongmei Zhang  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepSoftwareAnalytics/LibDB)
 
 [**Characterizing Usages, Updates, and Risks of Third-Party Libraries in Java Projects**](https://link.springer.com/article/10.1007/s10664-022-10131-8) [Empirical Software Engineering, 2022]  
 Kaifeng Huang, Bihuan Chen, Congying Xu, Ying Wang, Bowen Shi, Xin Peng, Yijian Wu, Yang Liu  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://3rdpartylibs.github.io/)
+
+[**Detecting Third-Party Libraries for Privacy Leakage in Packed Android Applications**](https://doi.org/10.1109/CAC57257.2022.10054907) [China Automation Congress (CAC) 2022]  
+Hua Cheng, Guang Hu, Jin Liu, Zhiwei Kang, Chao Pan, ZiJun Zhang  
+
+[**Lib2Desc: Automatic Generation of Security-Centric Android App Descriptions Using Third-Party Libraries**](https://link.springer.com/article/10.1007/s10207-022-00601-x) [International Journal of Information Security, 2022]  
+Beyza Cevik, Nur Altiparmak, Murat Aksu, Sevil Sen 
+
+[**Endowing Third-Party Libraries Recommender Systems with Explicit User Feedback Mechanisms**](https://doi.org/10.1109/SANER53432.2022.00099) [SANER 2022]  
+Riccardo Rubei, Claudio Di Sipio, Juri Di Rocco, Davide Di Ruscio, Phuong T. Nguyen  
+
+[**LibCapsule: Complete Confinement of Third-Party Libraries in Android Applications**](https://doi.org/10.1109/TDSC.2021.3075817) [IEEE Transactions on Dependable and Secure Computing, 2022]  
+Jun Qiu, Xuewu Yang, Huamao Wu, Yajin Zhou, Jinku Li, Jianfeng Ma  
+
+### **2021**
+
+[**Research on Third-Party Libraries in Android Apps: A Taxonomy and Systematic Literature Review**](https://doi.org/10.1109/TSE.2021.3114381) [IEEE Transactions on Software Engineering, 2021]  
+Xian Zhan, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu  
 
 
 [**Understanding and Conquering the Difficulties in Identifying Third-Party Libraries from Millions of Android Apps**](https://doi.org/10.1109/TBDATA.2021.3093244) [IEEE Transactions on Big Data, 2021]  
 Yanghua Zhang, Jice Wang, Hexiang Huang, Yuqing Zhang, Peng Liu  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imcczy/libhawkeye)
 
-[**Detecting Third-Party Libraries for Privacy Leakage in Packed Android Applications**](https://doi.org/10.1109/CAC57257.2022.10054907) [China Automation Congress (CAC) 2022]  
-Hua Cheng, Guang Hu, Jin Liu, Zhiwei Kang, Chao Pan, ZiJun Zhang  
+
 
 [**Embedding App-Library Graph for Neural Third-Party Library Recommendation**](https://dl.acm.org/doi/abs/10.1145/3468264.3468552) [ESEC/FSE 2021]  
 Bo Li, Qiang He, Feifei Chen, Xin Xia, Li Li, John Grundy, Yun Yang  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fio1982/GRec)
 
-[**Lib2Desc: Automatic Generation of Security-Centric Android App Descriptions Using Third-Party Libraries**](https://link.springer.com/article/10.1007/s10207-022-00601-x) [International Journal of Information Security, 2022]  
-Beyza Cevik, Nur Altiparmak, Murat Aksu, Sevil Sen 
 
 [**Adversarial Machine Learning: On the Resilience of Third-Party Library Recommender Systems**](https://doi.org/10.1145/3463274.34638) [EASE 2021]  
 Phuong T. Nguyen, Davide Di Ruscio, Juri Di Rocco, Claudio Di Sipio, Massimiliano Di Penta  
 
-[**Endowing Third-Party Libraries Recommender Systems with Explicit User Feedback Mechanisms**](https://doi.org/10.1109/SANER53432.2022.00099) [SANER 2022]  
-Riccardo Rubei, Claudio Di Sipio, Juri Di Rocco, Davide Di Ruscio, Phuong T. Nguyen  
 
-[**Dealing with Popularity Bias in Recommender Systems for Third-Party Libraries: How Far Are We?**](https://doi.org/10.1109/MSR59073.2023.00016) [MSR 2023]  
-Phuong T. Nguyen, Riccardo Rubei, Juri Di Rocco, Claudio Di Sipio, Davide Di Ruscio, Massimiliano Di Penta  
 
-[**Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps**](https://doi.org/10.1109/ICSE48619.2023.00137) [ICSE 2023]  
-Kaifa Zhao, Xian Zhan, Le Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, Yepang Liu  
+ 
 
-[**LibCapsule: Complete Confinement of Third-Party Libraries in Android Applications**](https://doi.org/10.1109/TDSC.2021.3075817) [IEEE Transactions on Dependable and Secure Computing, 2022]  
-Jun Qiu, Xuewu Yang, Huamao Wu, Yajin Zhou, Jinku Li, Jianfeng Ma  
+
 
 
 
