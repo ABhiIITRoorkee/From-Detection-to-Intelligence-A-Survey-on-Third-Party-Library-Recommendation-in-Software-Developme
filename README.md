@@ -60,6 +60,11 @@ Yue Xiao, Chaoqi Zhang, Yue Qin, Fares Fahad S Alharbi, Luyi Xing, Xiaojing Liao
 Duantengchuan Li, Yuxuan Gao, Zhihao Wang, Hua Qiu, Pan Liu, Zhuoran Xiong, Zilong Zhang  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dacilab/HGNRec)
 
+[**Neural Library Recommendation by Embedding Project-Library Knowledge Graph**](https://doi.org/10.1109/TSE.2024.3393504) [IEEE Transactions on Software Engineering, 2024]  
+Bo Li, Haowei Quan, Jiawei Wang, Pei Liu, Haipeng Cai, Yuan Miao, Yun Yang, Li Li  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Limber0117/PyRec)
+
+
 
 
 
