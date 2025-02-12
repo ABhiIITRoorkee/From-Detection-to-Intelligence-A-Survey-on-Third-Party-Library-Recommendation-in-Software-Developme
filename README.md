@@ -39,7 +39,7 @@ A systematic understanding of TPL detection techniques enables better management
 
 ## Detection Approaches
 
-### **Static Analysis and Detection **
+### **Static Analysis and Detection**
 
 [**Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**](https://aoa0.github.io/pubs/saner25.pdf) [SANER 2025]  
    *Dahan Pan*, *Yi Xu*, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang†  
@@ -77,7 +77,7 @@ Yanghua Zhang, Jice Wang, Hexiang Huang, Yuqing Zhang, Peng Liu
 
  
 
-### **Privacy-Focused **
+### **Privacy-Focused**
 
 [**Privacy Settings of Third-Party Libraries in Android Apps: A Study of Facebook SDKs**](https://usableprivacy.org/static/files/rodriguez_pets_2025.pdf) [PETS 2025]  
    David Rodriguez, Joseph A. Calandrino, Jose M. Del Alamo, Norman Sadeh  
@@ -113,20 +113,20 @@ Bo Li, Qiang He, Feifei Chen, Xin Xia, Li Li, John Grundy, Yun Yang
 Phuong T. Nguyen, Davide Di Ruscio, Juri Di Rocco, Claudio Di Sipio, Massimiliano Di Penta  
 
 
-### **Dataset **
+### **Dataset**
 
 [**AndroLibZoo: A Reliable Dataset of Libraries Based on Software Dependency Analysis**](https://ieeexplore.ieee.org/abstract/document/10555749) [MSR 2024]  
 Jordan Samhi, Tegawendé F. Bissyandé, Jacques Klein  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanSamhi/AndroLibZoo)
 
 
-### ***Survey and Taxonomy **
+### ***Survey and Taxonomy**
 
 [**Research on Third-Party Libraries in Android Apps: A Taxonomy and Systematic Literature Review**](https://doi.org/10.1109/TSE.2021.3114381) [IEEE Transactions on Software Engineering, 2021]  
 Xian Zhan, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu  
 
 
-### **Usage and Risk Analysis **
+### **Usage and Risk Analysis**
 [**Characterizing Usages, Updates, and Risks of Third-Party Libraries in Java Projects**](https://link.springer.com/article/10.1007/s10664-022-10131-8) [Empirical Software Engineering, 2022]  
 Kaifeng Huang, Bihuan Chen, Congying Xu, Ying Wang, Bowen Shi, Xin Peng, Yijian Wu, Yang Liu  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://3rdpartylibs.github.io/)
