@@ -120,7 +120,7 @@ Jordan Samhi, Tegawendé F. Bissyandé, Jacques Klein
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanSamhi/AndroLibZoo)
 
 
-### ***Survey and Taxonomy**
+### **Survey and Taxonomy**
 
 [**Research on Third-Party Libraries in Android Apps: A Taxonomy and Systematic Literature Review**](https://doi.org/10.1109/TSE.2021.3114381) [IEEE Transactions on Software Engineering, 2021]  
 Xian Zhan, Tianming Liu, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu  
