@@ -1,4 +1,4 @@
-# TPLytics: A Comprehensive Survey on Third-Party Library Detection
+# From Detection to Intelligence: A Survey on Third-Party Library Recommendation in Software Development
 
 **Authors**: [Abhinav Jamwal](https://scholar.google.com/citations?user=NsOedN0AAAAJ&hl=en), [Sandeep Kumar](https://scholar.google.co.in/citations?user=PDz0F-YAAAAJ&hl=en)
 
