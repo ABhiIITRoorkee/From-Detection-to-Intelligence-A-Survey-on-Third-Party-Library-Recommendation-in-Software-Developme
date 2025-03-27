@@ -13,27 +13,36 @@ This repository presents a curated collection of resources, including research p
 
 ## Table of Contents
 - [Motivation](#motivation)
-- [Detection Approaches](#detection-approaches)
-    - [Static Analysis](#static-analysis)
-    - [Dynamic Analysis](#dynamic-analysis)
-    - [Hybrid Approaches](#hybrid-approaches)
+- [Third-Party Library Detection and Recommendation](#third-party-library-detection-and-recommendation)
+  - [Static Analysis](#static-analysis)
+  - [Dynamic Analysis](#dynamic-analysis)
+  - [Hybrid Approaches](#hybrid-approaches)
+- [Intelligent TPL Recommendation Models](#intelligent-tpl-recommendation-models)
+  - [Graph Neural Networks (GNNs)](#graph-neural-networks-gnns)
+  - [Hypergraph Neural Networks (HGNNs)](#hypergraph-neural-networks-hgnns)
+  - [Contrastive Learning Approaches](#contrastive-learning-approaches)
+  - [Privacy-Aware and Security-Driven Recommendations](#privacy-aware-and-security-driven-recommendations)
 - [Tools and Frameworks](#tools-and-frameworks)
 - [Datasets](#datasets)
 - [Challenges in the Field](#challenges-in-the-field)
 - [Future Directions](#future-directions)
 - [References](#references)
 
+
 ---
 
 ## Motivation
 
-The reliance on third-party libraries has become integral to modern software development, offering faster development cycles and robust functionality. However, this dependence introduces challenges such as:
-- **Security Vulnerabilities**: TPLs often serve as an attack vector for malicious activities.
-- **Privacy Risks**: Libraries may expose sensitive user data to third parties.
-- **Dependency Management**: Ensuring compatibility and reducing version conflicts is crucial.
-- **Legal and Licensing Issues**: Understanding and complying with library licenses is critical to avoid legal repercussions.
+## **Motivation**
+Third-party libraries (TPLs) are essential to modern software development, enabling faster development cycles and improved functionality. However, their usage also introduces **critical challenges**, including:
+- **Security vulnerabilities** – Outdated or malicious libraries can compromise software security.
+- **Privacy risks** – Some libraries collect or expose sensitive user data without proper disclosure.
+- **Dependency conflicts** – Compatibility issues arise due to version mismatches and transitive dependencies.
+- **Licensing and compliance concerns** – Ensuring legal adherence to open-source licenses.
+- **Scalability and explainability** – Intelligent recommendation models must balance performance, interpretability, and efficiency.
 
-A systematic understanding of TPL detection techniques enables better management, enhanced security, and improved software quality.
+This repository consolidates research on **TPL detection and recommendation** techniques, with a particular focus on **machine learning, graph-based models, and interactive intelligent systems**.
+
 
 ---
 
