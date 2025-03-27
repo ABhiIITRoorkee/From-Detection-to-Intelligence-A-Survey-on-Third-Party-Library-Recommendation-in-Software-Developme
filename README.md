@@ -1,6 +1,6 @@
 # From Detection to Intelligence: A Survey on Third-Party Library Recommendation in Software Development
 
-**Authors**: [Abhinav Jamwal], [Sandeep Kumar](https://scholar.google.co.in/citations?user=PDz0F-YAAAAJ&hl=en)
+**Authors**: Abhinav Jamwal, [Sandeep Kumar](https://scholar.google.co.in/citations?user=PDz0F-YAAAAJ&hl=en)
 
 
 ---
